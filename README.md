@@ -66,9 +66,10 @@ The charts were first written in MATLAB (separate `bar`, `pie` and `errorbar` fi
 ## Author
 
 Trouble-Double (Nam Vu)
-(Colin McRae)
-
-
+Peng1W(Colin McRae)
+Jesus A. Ojeda Meza
+Leonardo Hernandez
+Reny A. Acosta
 
 
 
